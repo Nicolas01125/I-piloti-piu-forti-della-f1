@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Tazio Nuvolari</title>
+</head>
+<body>
+<body background="sfondo7.jpg">
+<center><font color="purple"><h1>Tazio Nuvolari</h1></font>
+</center>
+<br>
+<br>
+<center><img src="tazio2.jpg" widht="200" height="300"></center>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ym52urTGYB8?si=crJF6nbN-ysDVKyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font color="blue">
+ Automobili Lamborghini presenta Essenza SCV12, la hypercar da pista in edizione limitata di 40 esemplari, progettata da Lamborghini Squadra Corse e disegnata dal Lamborghini Centro Stile. I clienti Essenza SCV12 entreranno a far parte di un esclusivo club che darà accesso a programmi di guida per pilotare la propria hypercar in tutti i più prestigiosi circuiti del mondo.
+
+Essenza SCV12 nasce per un esclusivo utilizzo in pista e le soluzioni ingegneristiche sono di derivazione racing. Il motore V12 è in grado di erogare oltre 830 CV anche grazie al contributo della sovralimentazione dinamica alle alte velocità. La potenza è da gestire con un inedito cambio portante 6 rapporti X-trac, posto trasversalmente sul retrotreno e abbinato alla trazione posteriore.
+
+</p></font>
+<br>
+<br>
+<font color="white">
+<h2>Ecco le caratteristiche principali:</h2>
+<ol type="1">
+<li>Motore V12 longitudinale</li>
+
+<audio controls>
+<source src="suonolambov12.mp3" type="audio/mp3">
+</audio>
+
+
+
+<li>Sovralimentazione biturbo</li>
+<li>Cilindrata 6.498 cm cubici</li>
+<li>Potenza massima 830CV</li>
+<li>Trazione posteriore</li>
+<li>Cambio a 6 rapporti X-trac</li>
+<li>Carrozzeria in fibra di carbonio</li>
+<li>Volante racing multifunzione</li><img src="volantescv12.jpg" widht="200" height="160">
+
+<p>
+
+
+
+</body>
+
+
+
+
+
+Torna alla pagina <a href="index.html">Principale</a>
+</html>
